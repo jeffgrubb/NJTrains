@@ -1,0 +1,8 @@
+version: 1.0
+released: 2016-01-01
+
+# Connection parameters
+databaseProperties:
+    name: postgresql
+    url: jdbc:postgresql://postgresql.jeffgrubb.org/njtrains
+    user: postgres
